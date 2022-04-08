@@ -1,0 +1,3 @@
+[submodule "lab1_schedule/SimpleProcessSchedulerSimulation"]
+	path = lab1_schedule/SimpleProcessSchedulerSimulation
+	url = https://github.com/LMS1229/SimpleProcessSchedulerSimulation
