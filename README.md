@@ -1,6 +1,6 @@
 # Operating_System
-## 코드 수정시 fork를 진행하고 해주세요
-## 참고시 Star는 필수
+### 코드 수정시 fork 후 본인 Repo에서 수정
+### 참고시 Star는 필수
 
 #lab1_sched
 <br>
